@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.bookstore" >
+    <queries>
+        <intent>
+            <action android:name="android.speech.RecognitionService" />
+        </intent>
+    </queries>
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.BookStore" >
+        <meta-data android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+        <activity
+            android:name=".classes.LoginReg.ui.store.StoreFragment"
+            android:exported="false"
+            android:label="@string/title_activity_main" />
+        <activity
+            android:name=".classes.LoginReg.ui.basket.BasketFragment"
+            android:exported="false"
+            android:label="@string/basket_activity" />
+        <activity
+
+            android:name=".classes.LoginReg.ui.checkout.Personal_Details"
+            android:exported="false"
+            android:label="@string/Checkout"
+            />
+        <activity
+            android:name=".classes.LoginReg.ui.checkout.Card_details"
+            android:exported="false"
+            android:label="@string/Checkout" />
+        <activity
+            android:name=".classes.LoginReg.ui.store.detailsAct"
+            android:parentActivityName=".classes.LoginReg.ui.store.StoreFragment"
+            android:label="@string/BookDetails" />
+
+
+
+        />
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <activity
+            android:name=".classes.LoginReg.login"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".classes.LoginReg.signup"
+            android:exported="true"
+            android:parentActivityName=".classes.LoginReg.login" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

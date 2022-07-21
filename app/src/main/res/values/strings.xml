@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">BookStore</string>
+    <string name="title_activity_main">Book Store</string>
+    <string name="title_home">Store</string>
+    <string name="title_activity_book_store_main">bookStoreMain</string>
+    <string name="title_activity_book_store_page">book_store_page</string>
+    <string name="title_notifications">bucket</string>
+    <string name="basket">Basket</string>
+    <string name="book_store">Store</string>
+    <string name="logout">logout</string>
+    <string name="book_name">Name:</string>
+    <string name="price">Price:</string>
+    <string name="availability">Availability:</string>
+    <string name="basket_activity">Basket</string>
+    <string name="add">Add to basket</string>
+    <string name="show_details">details</string>
+    <string name="quantity">Quantity:</string>
+    <string name="cash">Cash On Delivery</string>
+    <string name="card">Credit / Debit Card</string>
+    <string name="Checkout">CheckOut</string>
+    <string name="BookDetails">Book Details</string>
+    <string name="text_to_speech">text to speech</string>
+</resources>

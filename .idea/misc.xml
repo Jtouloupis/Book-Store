@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/spirt/AndroidStudioProjects/BookStore/app/src/main/res/drawable-v24/ic_baseline_info_24.xml" value="0.3828125" />
+        <entry key="..\:/Users/spirt/AndroidStudioProjects/BookStore/app/src/main/res/drawable-v24/ic_baseline_person_outline_24.xml" value="0.3828125" />
+        <entry key="..\:/Users/spirt/AndroidStudioProjects/BookStore/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.4473958333333333" />
+        <entry key="..\:/Users/spirt/AndroidStudioProjects/BookStore/app/src/main/res/drawable/ic_baseline_book_24.xml" value="0.49166666666666664" />
+        <entry key="..\:/Users/spirt/AndroidStudioProjects/BookStore/app/src/main/res/drawable/ic_baseline_delete_24.xml" value="0.4855" />
+        <entry key="..\:/Users/spirt/AndroidStudioProjects/BookStore/app/src/main/res/drawable/ic_baseline_info_24.xml" value="0.37083333333333335" />
+        <entry key="..\:/Users/spirt/AndroidStudioProjects/BookStore/app/src/main/res/drawable/ic_baseline_person_outline_24.xml" value="0.37083333333333335" />
+        <entry key="..\:/Users/spirt/AndroidStudioProjects/BookStore/app/src/main/res/drawable/ic_baseline_shopping_basket_24.xml" value="0.4473958333333333" />
+        <entry key="..\:/Users/spirt/AndroidStudioProjects/BookStore/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.4473958333333333" />
+        <entry key="..\:/Users/spirt/AndroidStudioProjects/BookStore/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.4473958333333333" />
+        <entry key="..\:/Users/spirt/AndroidStudioProjects/BookStore/app/src/main/res/drawable/ic_launcher_background.xml" value="0.4473958333333333" />
+        <entry key="..\:/Users/spirt/AndroidStudioProjects/BookStore/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.5475" />
+        <entry key="..\:/Users/spirt/AndroidStudioProjects/BookStore/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.38385416666666666" />
+        <entry key="..\:/Users/spirt/AndroidStudioProjects/BookStore/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/spirt/AndroidStudioProjects/BookStore/app/src/main/res/layout/activity_testtest.xml" value="0.46145833333333336" />
+        <entry key="..\:/Users/spirt/AndroidStudioProjects/BookStore/app/src/main/res/layout/basket_card_view.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/spirt/AndroidStudioProjects/BookStore/app/src/main/res/layout/basketview.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/spirt/AndroidStudioProjects/BookStore/app/src/main/res/layout/card_layout.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/spirt/AndroidStudioProjects/BookStore/app/src/main/res/layout/cardview.xml" value="0.4083333333333333" />
+        <entry key="..\:/Users/spirt/AndroidStudioProjects/BookStore/app/src/main/res/layout/cart_edit.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/spirt/AndroidStudioProjects/BookStore/app/src/main/res/layout/cart_item.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/spirt/AndroidStudioProjects/BookStore/app/src/main/res/layout/checkout.xml" value="0.33" />
+        <entry key="..\:/Users/spirt/AndroidStudioProjects/BookStore/app/src/main/res/layout/details.xml" value="0.25" />
+        <entry key="..\:/Users/spirt/AndroidStudioProjects/BookStore/app/src/main/res/layout/fragment_basket.xml" value="0.36770833333333336" />
+        <entry key="..\:/Users/spirt/AndroidStudioProjects/BookStore/app/src/main/res/layout/fragment_dashboard.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/spirt/AndroidStudioProjects/BookStore/app/src/main/res/layout/fragment_home.xml" value="0.36770833333333336" />
+        <entry key="..\:/Users/spirt/AndroidStudioProjects/BookStore/app/src/main/res/layout/fragment_notifications.xml" value="0.36770833333333336" />
+        <entry key="..\:/Users/spirt/AndroidStudioProjects/BookStore/app/src/main/res/layout/fragment_store.xml" value="0.33" />
+        <entry key="..\:/Users/spirt/AndroidStudioProjects/BookStore/app/src/main/res/layout/login_layout.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/spirt/AndroidStudioProjects/BookStore/app/src/main/res/layout/register_layout.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/spirt/AndroidStudioProjects/BookStore/app/src/main/res/menu/bottom_nav_menu.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/spirt/AndroidStudioProjects/BookStore/app/src/main/res/menu/topbarmenu.xml" value="0.36770833333333336" />
+        <entry key="..\:/Users/spirt/AndroidStudioProjects/BookStore/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.38385416666666666" />
+        <entry key="..\:/Users/spirt/AndroidStudioProjects/BookStore/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.38385416666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
